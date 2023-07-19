@@ -20,3 +20,5 @@ linux için:
 ## License 
 
 [MIT](https://www.mit.edu/~amini/LICENSE.md)
+
+![Resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
