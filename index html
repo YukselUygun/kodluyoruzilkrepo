@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rastgele HTML</title>
+</head>
+<body>
+    <h1>Merhaba Dünya!</h1>
+    <p>Bu rastgele bir HTML kodu örneğidir.</p>
+    <ul>
+        <li>Birinci öğe</li>
+        <li>İkinci öğe</li>
+        <li>Üçüncü öğe</li>
+    </ul>
+    <img src="resim.jpg" alt="Resim Açıklaması">
+</body>
+</html>
